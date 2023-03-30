@@ -152,7 +152,7 @@ body {
 
   .home-container .left-content h2 em {
     font-style: normal;
-    color: #A020F0;
+    color: #FFC0CB;
   }
 
   .home-container .left-content p {
@@ -184,8 +184,8 @@ body {
     -o-transition: all 0.2s linear;
     -webkit-transition: all 0.2s linear;
     transition: all 0.2s linear;
-    border-color: #A020F0;
-    color: #A020F0;
+    border-color: #FFC0CB;
+    color: #FFC0CB;
     text-decoration: none;
   }
 
@@ -224,7 +224,7 @@ body {
 
 .about-container h2 em {
   font-style: normal;
-  color: #A020F0;
+  color: #FFC0CB;
 }
 
 .about-container .under-line {
@@ -282,7 +282,7 @@ body {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #A020F0;
+  background-color: ##FFC0CB;
 }
 
 .project-item .thumb-holder .hover-effect .hover-content {
@@ -337,7 +337,7 @@ body {
   display: inline-block;
   padding: 15px 30px;
   color: #fff;
-  background-color: #A020F0;
+  background-color: #FFC0CB;
 }
 
 .contact-form input {
@@ -392,7 +392,7 @@ body {
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
-  border-color: #A020F0;
+  border-color: #FFC0CB;
   color: #A020F0;
   text-decoration: none;
 }
